@@ -1,3 +1,6 @@
 # nytapp3
 
-##Group founder and CEO: James Vera
+
+### Contributors
+* Eric
+* James Vera (Group found and CEO)
