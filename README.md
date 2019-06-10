@@ -1,5 +1,7 @@
 # nytapp3
 
-##Group founder and CEO: James Vera
+### Contributors
 
-## CFO: Baggio Shehadi
+- Eric
+- James Vera (Group found and CEO)
+- Baggio Shehadi (CFO)
