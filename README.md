@@ -1,4 +1,6 @@
 # nytapp3
 
+
 ### Contributors
-Eric
+* Eric
+* James Vera (Group found and CEO)
